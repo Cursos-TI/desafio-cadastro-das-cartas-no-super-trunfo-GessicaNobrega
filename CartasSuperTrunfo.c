@@ -88,7 +88,7 @@ int main(){
     %s: imprime uma cadeia (string) de caracteres.
     */
 
-    printf("novo comit\n");
+    printf("novo commit\n");
     
     return 0;
 
